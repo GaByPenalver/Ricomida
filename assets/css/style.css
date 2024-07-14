@@ -1,0 +1,54 @@
+.card {
+    width: 60%; 
+}
+
+.navbar {
+    padding: 0;
+}
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: black;
+    text-align: center;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #000;
+    text-align: center;
+}
+
+.img.card-img-top {
+    width: 50px; 
+    height: 50px; 
+}
+
+.row {
+    padding: 50px;
+}
+
+.container-fluid {
+    background-color: #373A3C;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    font-family: 'Lobster';
+    font-weight: 450;
+}
+
+footer {
+    position: relative;
+    top: 12px;
+    text-align: center;
+    color: #FFF;
+    height: 50px;
+    margin: 0;
+    background-color: #373A3C;
+    line-height: 50px;
+}
+
